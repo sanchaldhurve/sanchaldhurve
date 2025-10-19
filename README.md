@@ -2,12 +2,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=600&lines=Data+Analyst+and+BI+Analyst+%7C+Data+Scientist+%7C+ML;Building+Scalable+Data+Pipelines;GenAI+%26+MLOps+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&width=600&lines=Data+Analyst+and+BI+Analyst+%7C+Data+Scientist;Data+Storyteller+Making+Data+Speak;ML+%26+GenAI+Explorer)](https://git.io/typing-svg)
 
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Minimalist data visualization">
+</p>
+
 I enjoy the full journey of data-from wrangling messy datasets and building reliable ETL workflows to designing dashboards that make insights obvious. I like figuring out what the numbers are really saying and turning them into something people can act on.
 
-My work spans **business intelligence, analytics, and data engineering**, where I’ve helped organizations reduce reporting bottlenecks, improve data quality, and create dashboards that communicate clearly to stakeholders. I’m especially interested in projects that combine analytics with meaningful impact, such as sustainability initiatives or strategic business decisions.
+My work spans **business intelligence, analytics, and data engineering**, where I’ve helped organizations reduce reporting bottlenecks, improve data quality, and create comprehensive **dashboards** that communicate clearly to stakeholders. I’m especially interested in projects that combine analytics with meaningful impact, such as sustainability initiatives or strategic business decisions.
 
 Alongside my technical work, I’ve also worked as an ISEE Peer Mentor and mentored international students at DePaul University, helping them navigate academic and cultural challenges. This experience strengthened my leadership, communication, event coordination and collaboration skills, which I carry into every team project I work on.
 
