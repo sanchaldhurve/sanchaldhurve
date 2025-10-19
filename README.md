@@ -95,7 +95,10 @@ Alongside my technical work, I’ve also worked as an ISEE Peer Mentor and mento
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanchaldhurve/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+  <a href="mailto:sdhurve@depaul.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a></p>
+
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ4ZjlyNjY2bzF1ejI0MGFkdjh5Z3hvanpxcTQ3N3F4cWozeGtxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M0suZ8XLn9MWeHdK4D/giphy.gif" width="250" alt="Cute coffee GIF">
