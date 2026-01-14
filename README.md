@@ -10,18 +10,24 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Minimalist data visualization">
 </p>
 
-I enjoy the full journey of data-from wrangling messy datasets and building reliable ETL workflows to designing dashboards that make insights obvious. I like figuring out what the numbers are really saying and turning them into something people can act on.
+I enjoy the full journey of data — from **wrangling messy datasets and building reliable ETL pipelines** to **designing dashboards that make insights actionable**. I focus on uncovering what the numbers are really saying and turning them into **clear, business-ready insights**.
 
-My work spans **business intelligence, analytics, and data engineering**, where I’ve helped organizations reduce reporting bottlenecks, improve data quality, and create comprehensive **dashboards** that communicate clearly to stakeholders. I’m especially interested in projects that combine analytics with meaningful impact, such as sustainability initiatives or strategic business decisions.
+My work spans **business intelligence, analytics, and data engineering**, where I’ve helped organizations:
 
-Alongside my technical work, I’ve also worked as an ISEE Peer Mentor and mentored international students at DePaul University, helping them navigate academic and cultural challenges. This experience strengthened my leadership, communication, event coordination and collaboration skills, which I carry into every team project I work on.
+- Reduce reporting bottlenecks  
+- Improve **data quality and consistency**  
+- Build interactive dashboards and KPI scorecards that communicate trends and anomalies to stakeholders  
+
+I’m particularly passionate about projects that combine **analytics with meaningful impact**, such as **operational efficiency, healthcare, automotive, or strategic business initiatives**.
+
+I bring strong **leadership, collaboration, communication, and project coordination skills** to every team I work with, ensuring data solutions are not only technically sound but also **aligned with business goals**.
 
 **Current Focus:**
-- 🔭 Currently working as a **Data Analyst** at **Rebecca Everlene Trust Company**.
-- 🌱 Expanding my expertise in **data warehousing, advanced ETL pipelines, and business intelligence automation** 
-- 💡 Using data to deliver insights that enhance operational efficiency, strategic planning, and sustainability initiatives.
-- 🎯 Skilled in **SQL, Python (Pandas/NumPy), Tableau, Power BI, Excel, Azure, and workflow automation.**
-- ☕ When not crunching numbers, you'll spot me brewing coffee and discovering small cafés in the city.
+- 🔭 Currently working as a **Data Analyst at Humana** - with **healthcare claims, pharmacy, and eligibility data** from **AWS S3 and Azure**, building **SQL pipelines, ETL workflows, and Power BI dashboards** for operational and executive reporting.  
+- 🌱 Expanding expertise in **data warehousing, cloud-hosted pipelines, and business intelligence automation**  
+- 💡 Using data to deliver insights that enhance **operational efficiency, strategic planning, and decision-making**  
+- 🎯 Skilled in **SQL, Python (Pandas/NumPy), Tableau, Power BI, Excel, Azure, AWS**, and workflow automation  
+- ☕ When not crunching numbers, you’ll find me brewing coffee and exploring small cafés in the city.
 
 ## 🛠️ Tech Stack 
 
@@ -31,8 +37,6 @@ Alongside my technical work, I’ve also worked as an ISEE Peer Mentor and mento
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ### Databases and ETL Workflows
@@ -42,7 +46,6 @@ Alongside my technical work, I’ve also worked as an ISEE Peer Mentor and mento
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Databricks-E34A6F?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white"/>
 </p>
 
 ### BI & Visualization Tools
@@ -86,26 +89,31 @@ Alongside my technical work, I’ve also worked as an ISEE Peer Mentor and mento
 </p>
 
 ## 💼 Professional Experience
-**Data Analyst - Rebecca Everlene Trust Company, Chicago (May 2025 – Present)**
-- Engineered database schema and ER diagrams for the ASPECTS platform, clarifying 10+ entity relationships and enabling scalable, consistent data modeling.
-- Executed SQL and Python data preprocessing on 4,000+ records, generating actionable insights to support reports and business decisions.
-- Designed interactive Tableau dashboards for 10,000+ student records, accelerating data-driven decision-making and stakeholder reporting.
+**Data Analyst - Humana, Remote (March 2025 - Present)**
 
-**Data Analyst - ABC Techno Labs India Pvt. Ltd., Mumbai, India (Jul 2021 - Mar 2023)**
-- Analyzed spatial datasets using ArcGIS for the Saltwater Intrusion Project, identifying 15+ high-risk zones and supporting environmental compliance.
-- Optimized ETL workflows with SQL and Python, improving data integrity by 20% and aligning outputs with key KPIs.
-- Developed Tableau dashboards and performed statistical modeling in R/Python, delivering actionable insights and reducing reporting turnaround by 30%.
+- Extracted, transformed, and validated **healthcare claims, pharmacy, and eligibility datasets** from **AWS S3 and Azure data warehouses** using SQL (CTEs, window functions, complex joins), reducing data errors by ~20%.  
+- Built **5+ interactive Power BI dashboards and KPI scorecards**, integrating cloud-hosted datasets to track claims TAT, SLA compliance, utilization, and pharmacy cost trends.  
+- Performed **trend, variance, and anomaly analyses** on historical and current datasets, identifying cost drivers and utilization spikes for actionable insights.  
+- Implemented **data cleansing, normalization, and reconciliation pipelines**, ensuring accuracy and consistency of weekly operational and executive reports.  
+- Documented **data definitions, transformation logic, and dashboard metrics**, supporting reporting readiness, knowledge transfer, and audit compliance.  
 
+**Data Analyst - KPIT Technologies, Maharashtra India (Jan 2021 - July 2023)**
+
+- Monitored and analyzed **vehicle sensor, incident, and system alert datasets** stored in **Azure and on-premise repositories**, detecting recurring patterns, anomalies, and performance trends.  
+- Built **SQL-based extraction and transformation pipelines** from multi-source automotive data, improving reporting efficiency and reliability by ~15–20%.  
+- Designed and maintained **3+ operational dashboards in Power BI and Tableau** for fault frequency, alert trends, vehicle uptime/downtime, and component-level performance.  
+- Collaborated with engineers and QA teams to **validate data accuracy, resolve discrepancies, and document transformation rules**, ensuring reliable operational reporting and knowledge transfer.
+  
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://sanchaldhurveportfolio.vercel.app/" target="_blank">
+  <a href="https://sanchal-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/sanchaldhurve/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:sanchaldhurve@gmail.com" target="_blank">
+  <a href="mailto:sanchaldhurve13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -115,5 +123,4 @@ Alongside my technical work, I’ve also worked as an ISEE Peer Mentor and mento
   <br>
   <em>"Data, Coffee, Repeat!"</em>
 </p>
-
 
